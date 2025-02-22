@@ -1,0 +1,16 @@
+﻿  bddio.c
+  bddop.c
+  bvec.c
+  cache.c
+  fdd.c
+  imatrix.c
+  kernel.c
+  pairs.c
+  prime.c
+  reorder.c
+  tree.c
+  Создание кода...
+  bddtest.cxx
+  cppext.cxx
+  Создание кода...
+  StaticBuddy.vcxproj -> C:\Users\Admin\source\repos\StaticBuddy\Debug\StaticBuddy.lib
