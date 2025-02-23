@@ -20,7 +20,7 @@ git clone https://github.com/Bazhenator/EP_solver.git
 
 > [!IMPORTANT]
 > Before **EP_solver** execution you should install BUDDY-library dependencies into your project.
-> You can find them in buddy package.
+> You can find them in ```buddy``` package.
 > **TIP:** *Use Visual Studio IDE*
 
 ### BUDDY installing
@@ -34,7 +34,7 @@ git clone https://github.com/Bazhenator/EP_solver.git
 
 **EP_solver** solves Einstein's problem.
 
-- ```src``` package contain's solver's realization in C++ programming language.
+- ```src``` package contains solver's realization in C++ programming language.
 - ```out``` package contains text files with console output examples.
 
 1. ```main_simple.cpp``` - **easy** level: in this file you can find solver without decisions' gluing.
